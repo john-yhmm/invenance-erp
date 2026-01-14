@@ -23,10 +23,6 @@ Invenance ERP solves this by integrating **real-time inventory operations** with
 * Real-time inventory tracking (perpetual inventory)
 * Product variants and multi-warehouse support
 * Integrated accounting (inventory valuation & COGS)
-* Multi-tenant architecture
-* Role-based access control
-* REST API with Swagger documentation
-* Responsive web interface (desktop, tablet, mobile)
 
 ---
 
@@ -42,53 +38,3 @@ Invenance ERP solves this by integrating **real-time inventory operations** with
 **Frontend**
 
 * React
-
----
-
-## Repository Structure
-
-```
-.
-├── backend/
-├── frontend/
-├── docs/
-└── README.md
-```
-
----
-
-## Getting Started
-
-```bash
-# Backend
-cd backend
-./mvnw spring-boot:run
-
-# Frontend
-cd frontend
-npm install
-npm start
-```
-
----
-
-## Documentation
-
-Detailed documentation is available in the `docs/` directory, including:
-
-* Architecture overview
-* Business workflows
-* Inventory and accounting logic
-* Multi-tenancy and security design
-
----
-
-## Project Status
-
-🚧 Actively developed as a production-focused solo project.
-
----
-
-## License
-
-TBD
