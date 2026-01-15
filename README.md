@@ -30,9 +30,9 @@ Invenance ERP solves this by integrating **real-time inventory operations** with
 
 **Backend**
 
-* Java 8
-* Spring Boot
-* PostgreSQL
+* Java 21
+* Spring Boot 4
+* PostgreSQL 18
 * JWT Authentication
 
 **Frontend**
